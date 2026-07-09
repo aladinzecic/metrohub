@@ -1,0 +1,254 @@
+.triporder-full {
+    width: 100%;
+    padding-bottom: 3vh;
+    background-color: #F5F2ED;
+    padding-left: 8%;
+    padding-right: 8%;
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+}
+
+.triporder-title {
+    margin-top: 1vh;
+    margin-left: 10%;
+    font-size: 32px;
+    font-weight: 800;
+}
+
+/* MAIN INFO CARD */
+.triporder-card {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 3vh;
+    background-color: #fff;
+    border: 1px solid #e2ddd8;
+    border-radius: 12px;
+    padding: 3vh 5%;
+}
+
+.triporder-card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding-bottom: 3vh;
+    border-bottom: 1px solid #e2ddd8;
+    margin-bottom: 3vh;
+}
+
+.triporder-order-name {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+.triporder-order-sub {
+    font-size: 13px;
+    color: #999993;
+    font-weight: 300;
+}
+
+/* INFO GRID */
+.triporder-info-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5%;
+}
+
+.triporder-info-col {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.triporder-info-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5vh 0;
+}
+
+.triporder-info-label {
+    font-size: 13px;
+    color: #555550;
+    font-weight: 300;
+}
+
+.triporder-info-value {
+    font-size: 13px;
+    font-weight: 500;
+    color: #0a0a0a;
+}
+
+.triporder-info-col hr {
+    border: none;
+    border-top: 1px solid #e2ddd8;
+    margin: 0;
+}
+
+/* TRIPS CARD */
+.triporder-trips-card {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 3vh;
+    background-color: #fff;
+    border: 1px solid #e2ddd8;
+    border-radius: 12px;
+    padding: 3vh 5%;
+}
+
+.triporder-trips-top {
+    margin-bottom: 2vh;
+}
+
+.triporder-trips-top h2 {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+/* TRIP ROW */
+.triporder-trip {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 2vh 0;
+}
+
+.triporder-trip hr {
+    margin: 0;
+}
+
+.triporder-trip-num {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background-color: #F5F2ED;
+    border: 1px solid #e2ddd8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    font-weight: 600;
+    color: #999993;
+    flex-shrink: 0;
+}
+
+.triporder-trip-num.done {
+    background-color: #0a0a0a;
+    color: #f5f2ed;
+    border-color: #0a0a0a;
+}
+
+.triporder-trip-num.active {
+    background-color: #f0fdf4;
+    color: #15803d;
+    border-color: #bbf7d0;
+}
+
+.triporder-trip-info {
+    flex: 1;
+}
+
+.triporder-trip-name {
+    font-size: 14px;
+    font-weight: 500;
+    color: #0a0a0a;
+    margin-bottom: 4px;
+}
+
+.triporder-trip-desc {
+    font-size: 12px;
+    color: #555550;
+    font-weight: 300;
+}
+
+.triporder-trip-duration {
+    font-size: 13px;
+    font-weight: 500;
+    color: #555550;
+    min-width: 50px;
+    text-align: right;
+}
+
+/* BADGES */
+.triporder-badge-green {
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    background-color: #f0fdf4;
+    color: #15803d;
+    border: 1px solid #bbf7d0;
+    white-space: nowrap;
+}
+
+.triporder-badge-amber {
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    background-color: #fffbeb;
+    color: #92400e;
+    border: 1px solid #fcd34d;
+    white-space: nowrap;
+}
+
+.triporder-badge-blue {
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    background-color: #eff6ff;
+    color: #1e40af;
+    border: 1px solid #bfdbfe;
+    white-space: nowrap;
+}
+
+.triporder-badge-gray {
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    background-color: #F5F2ED;
+    color: #555550;
+    border: 1px solid #e2ddd8;
+    white-space: nowrap;
+}
+
+/* BUTTONS */
+.triporder-buttons {
+    display: flex;
+    gap: 12px;
+    margin-top: 3vh;
+    border-top: 1px solid #e2ddd8;
+    padding-top: 3vh;
+}
+
+.triporder-btn-primary {
+    flex: 1;
+    padding: 12px;
+    background-color: #0a0a0a;
+    color: #f5f2ed;
+    border: none;
+    border-radius: 12px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.triporder-btn-outline {
+    flex: 1;
+    padding: 12px;
+    background-color: #fff;
+    color: #555550;
+    border: 1px solid #e2ddd8;
+    border-radius: 12px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    font-family: 'DM Sans', sans-serif;
+}
+.triporder-btn-primary,
+.triporder-btn-outline {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}

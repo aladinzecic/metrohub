@@ -1,0 +1,91 @@
+.full-page{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background-color: #F5F2ED;
+    font-family: "Outfit";
+}
+
+.left{
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-text{
+    margin-left: 5%;
+    width: 70%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.black{
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 1.0;
+  letter-spacing: -3px;
+  color: #0a0a0a;
+  font-family: "Outfit";
+}
+
+.gray{
+    font-weight: 400;
+  font-size: 72px;
+  line-height: 1.0;
+  letter-spacing: -3px;
+  font-family: "Charm", cursive;
+      
+    }
+    
+    .left-text h3{
+  font-weight: 300;
+  font-size: 15px;
+  color: #555550;
+  line-height: 1.7;
+  max-width: 300px;
+  margin-top: 16px;
+}
+
+.start-btn{
+    margin-top: 30px;
+  background: #0a0a0a;
+  color: #f0ede8;
+  border: none;
+  padding: 13px 28px;
+  border-radius: 40px;
+  font-family: 'Outfit';
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 30%;
+  height: 60px;
+
+}
+.right-btn{
+    font-size: 22px;
+    font-weight: 800;
+}
+
+.start-btn:hover{
+      background: #222;
+  transition: 0.2s;
+}
+.right{
+    width: 50%;
+    background-color: #0A0A0A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right img{
+    transform: scale(0.8);
+    
+}

@@ -1,0 +1,151 @@
+.map-div {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.main-full {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.main-top {
+    flex-shrink: 0;
+}
+
+.main-bottom {
+    flex: 1;
+    display: flex;
+    overflow: hidden;
+}
+
+.main-content {
+    flex: 1;
+    overflow: hidden;
+    height: 100%;
+}
+#map {
+    width: 100%;
+    height: 100%;
+}
+
+.map-overlay {
+    position: absolute;
+    top: 24px;
+    left: 24px;
+    right: 24px;
+    display: flex;
+    gap: 12px;
+    z-index: 999;
+}
+
+.map-search {
+    flex: 1;
+    background: #ffffff;
+    border: 1px solid #e2ddd8;
+    border-radius: 12px;
+    padding: 12px 16px;
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+    outline: none;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+}
+
+.map-filter-btn {
+    background: #ffffff;
+    border: 1px solid #e2ddd8;
+    border-radius: 12px;
+    padding: 12px 18px;
+    font-size: 13px;
+    font-family: 'DM Sans', sans-serif;
+    cursor: pointer;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+}
+
+.map-stops-div {
+    position: absolute;
+    bottom: 24px;
+    left: 24px;
+    width: 300px;
+    background: #ffffff;
+    border: 1px solid #e2ddd8;
+    border-radius: 16px;
+    padding: 20px;
+    z-index: 999;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+}
+
+.map-stops-title {
+    font-size: 15px;
+    font-weight: 700;
+    color: #0a0a0a;
+    margin-bottom: 4px;
+}
+
+.map-stops-h3 {
+    font-size: 12px;
+    font-weight: 400;
+    color: #919182;
+    margin-bottom: 16px;
+}
+
+.map-stops {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.map-stop {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.circle {
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background-color: #0a0a0a;
+    flex-shrink: 0;
+}
+
+.map-stop h2 {
+    font-size: 13px;
+    font-weight: 400;
+    margin-left: 12px;
+    color: #0a0a0a;
+}
+
+.map-stop-left {
+    display: flex;
+    align-items: center;
+}
+
+.map-stop p {
+    font-size: 12px;
+    color: #919182;
+    font-weight: 400;
+}
+
+.vertical {
+    height: 14px;
+    background-color: #bdbdaf;
+    width: 1px;
+    margin-left: 4px;
+}
+
+.map-nav-btn {
+    background: #0a0a0a;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 12px;
+    width: 100%;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-top: 16px;
+}

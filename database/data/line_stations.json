@@ -1,0 +1,1564 @@
+{
+  "line_stations": [
+    {
+      "line_id": 1,
+      "station_id": 14,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 1,
+      "station_id": 17,
+      "order": 2,
+      "distance_from_prev": 746
+    },
+    {
+      "line_id": 1,
+      "station_id": 11,
+      "order": 3,
+      "distance_from_prev": 3912
+    },
+    {
+      "line_id": 1,
+      "station_id": 3,
+      "order": 4,
+      "distance_from_prev": 1500
+    },
+    {
+      "line_id": 1,
+      "station_id": 2,
+      "order": 5,
+      "distance_from_prev": 528
+    },
+    {
+      "line_id": 1,
+      "station_id": 6,
+      "order": 6,
+      "distance_from_prev": 717
+    },
+    {
+      "line_id": 1,
+      "station_id": 1,
+      "order": 7,
+      "distance_from_prev": 345
+    },
+    {
+      "line_id": 1,
+      "station_id": 5,
+      "order": 8,
+      "distance_from_prev": 196
+    },
+    {
+      "line_id": 2,
+      "station_id": 14,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 2,
+      "station_id": 15,
+      "order": 2,
+      "distance_from_prev": 270
+    },
+    {
+      "line_id": 2,
+      "station_id": 17,
+      "order": 3,
+      "distance_from_prev": 763
+    },
+    {
+      "line_id": 2,
+      "station_id": 25,
+      "order": 4,
+      "distance_from_prev": 3648
+    },
+    {
+      "line_id": 2,
+      "station_id": 21,
+      "order": 5,
+      "distance_from_prev": 659
+    },
+    {
+      "line_id": 2,
+      "station_id": 13,
+      "order": 6,
+      "distance_from_prev": 1728
+    },
+    {
+      "line_id": 2,
+      "station_id": 12,
+      "order": 7,
+      "distance_from_prev": 856
+    },
+    {
+      "line_id": 2,
+      "station_id": 11,
+      "order": 8,
+      "distance_from_prev": 1244
+    },
+    {
+      "line_id": 2,
+      "station_id": 3,
+      "order": 9,
+      "distance_from_prev": 1500
+    },
+    {
+      "line_id": 2,
+      "station_id": 28,
+      "order": 10,
+      "distance_from_prev": 3621
+    },
+    {
+      "line_id": 2,
+      "station_id": 36,
+      "order": 11,
+      "distance_from_prev": 571
+    },
+    {
+      "line_id": 2,
+      "station_id": 34,
+      "order": 12,
+      "distance_from_prev": 4196
+    },
+    {
+      "line_id": 2,
+      "station_id": 35,
+      "order": 13,
+      "distance_from_prev": 1306
+    },
+    {
+      "line_id": 2,
+      "station_id": 31,
+      "order": 14,
+      "distance_from_prev": 3033
+    },
+    {
+      "line_id": 3,
+      "station_id": 13,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 3,
+      "station_id": 12,
+      "order": 2,
+      "distance_from_prev": 856
+    },
+    {
+      "line_id": 3,
+      "station_id": 11,
+      "order": 3,
+      "distance_from_prev": 1244
+    },
+    {
+      "line_id": 3,
+      "station_id": 3,
+      "order": 4,
+      "distance_from_prev": 1500
+    },
+    {
+      "line_id": 3,
+      "station_id": 28,
+      "order": 5,
+      "distance_from_prev": 3621
+    },
+    {
+      "line_id": 3,
+      "station_id": 36,
+      "order": 6,
+      "distance_from_prev": 571
+    },
+    {
+      "line_id": 3,
+      "station_id": 34,
+      "order": 7,
+      "distance_from_prev": 4196
+    },
+    {
+      "line_id": 3,
+      "station_id": 35,
+      "order": 8,
+      "distance_from_prev": 1306
+    },
+    {
+      "line_id": 3,
+      "station_id": 31,
+      "order": 9,
+      "distance_from_prev": 3033
+    },
+    {
+      "line_id": 4,
+      "station_id": 2,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 4,
+      "station_id": 3,
+      "order": 2,
+      "distance_from_prev": 528
+    },
+    {
+      "line_id": 4,
+      "station_id": 11,
+      "order": 3,
+      "distance_from_prev": 1500
+    },
+    {
+      "line_id": 4,
+      "station_id": 13,
+      "order": 4,
+      "distance_from_prev": 2027
+    },
+    {
+      "line_id": 4,
+      "station_id": 25,
+      "order": 5,
+      "distance_from_prev": 2378
+    },
+    {
+      "line_id": 4,
+      "station_id": 17,
+      "order": 6,
+      "distance_from_prev": 3648
+    },
+    {
+      "line_id": 4,
+      "station_id": 14,
+      "order": 7,
+      "distance_from_prev": 746
+    },
+    {
+      "line_id": 4,
+      "station_id": 49,
+      "order": 8,
+      "distance_from_prev": 5626
+    },
+    {
+      "line_id": 4,
+      "station_id": 47,
+      "order": 9,
+      "distance_from_prev": 3836
+    },
+    {
+      "line_id": 4,
+      "station_id": 48,
+      "order": 10,
+      "distance_from_prev": 2792
+    },
+    {
+      "line_id": 5,
+      "station_id": 2,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 5,
+      "station_id": 3,
+      "order": 2,
+      "distance_from_prev": 528
+    },
+    {
+      "line_id": 5,
+      "station_id": 11,
+      "order": 3,
+      "distance_from_prev": 1500
+    },
+    {
+      "line_id": 5,
+      "station_id": 13,
+      "order": 4,
+      "distance_from_prev": 2027
+    },
+    {
+      "line_id": 5,
+      "station_id": 25,
+      "order": 5,
+      "distance_from_prev": 2378
+    },
+    {
+      "line_id": 5,
+      "station_id": 21,
+      "order": 6,
+      "distance_from_prev": 659
+    },
+    {
+      "line_id": 5,
+      "station_id": 43,
+      "order": 7,
+      "distance_from_prev": 8515
+    },
+    {
+      "line_id": 5,
+      "station_id": 44,
+      "order": 8,
+      "distance_from_prev": 2048
+    },
+    {
+      "line_id": 6,
+      "station_id": 2,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 6,
+      "station_id": 3,
+      "order": 2,
+      "distance_from_prev": 528
+    },
+    {
+      "line_id": 6,
+      "station_id": 11,
+      "order": 3,
+      "distance_from_prev": 1500
+    },
+    {
+      "line_id": 6,
+      "station_id": 13,
+      "order": 4,
+      "distance_from_prev": 2027
+    },
+    {
+      "line_id": 6,
+      "station_id": 25,
+      "order": 5,
+      "distance_from_prev": 2378
+    },
+    {
+      "line_id": 6,
+      "station_id": 21,
+      "order": 6,
+      "distance_from_prev": 659
+    },
+    {
+      "line_id": 6,
+      "station_id": 43,
+      "order": 7,
+      "distance_from_prev": 8515
+    },
+    {
+      "line_id": 6,
+      "station_id": 45,
+      "order": 8,
+      "distance_from_prev": 6369
+    },
+    {
+      "line_id": 7,
+      "station_id": 14,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 7,
+      "station_id": 17,
+      "order": 2,
+      "distance_from_prev": 746
+    },
+    {
+      "line_id": 7,
+      "station_id": 25,
+      "order": 3,
+      "distance_from_prev": 3648
+    },
+    {
+      "line_id": 7,
+      "station_id": 49,
+      "order": 4,
+      "distance_from_prev": 6279
+    },
+    {
+      "line_id": 8,
+      "station_id": 2,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 8,
+      "station_id": 6,
+      "order": 2,
+      "distance_from_prev": 717
+    },
+    {
+      "line_id": 8,
+      "station_id": 7,
+      "order": 3,
+      "distance_from_prev": 1654
+    },
+    {
+      "line_id": 8,
+      "station_id": 8,
+      "order": 4,
+      "distance_from_prev": 773
+    },
+    {
+      "line_id": 8,
+      "station_id": 9,
+      "order": 5,
+      "distance_from_prev": 1194
+    },
+    {
+      "line_id": 8,
+      "station_id": 10,
+      "order": 6,
+      "distance_from_prev": 923
+    },
+    {
+      "line_id": 8,
+      "station_id": 27,
+      "order": 7,
+      "distance_from_prev": 1478
+    },
+    {
+      "line_id": 8,
+      "station_id": 53,
+      "order": 8,
+      "distance_from_prev": 12561
+    },
+    {
+      "line_id": 8,
+      "station_id": 52,
+      "order": 9,
+      "distance_from_prev": 11332
+    },
+    {
+      "line_id": 9,
+      "station_id": 2,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 9,
+      "station_id": 6,
+      "order": 2,
+      "distance_from_prev": 717
+    },
+    {
+      "line_id": 9,
+      "station_id": 7,
+      "order": 3,
+      "distance_from_prev": 1654
+    },
+    {
+      "line_id": 9,
+      "station_id": 8,
+      "order": 4,
+      "distance_from_prev": 773
+    },
+    {
+      "line_id": 9,
+      "station_id": 9,
+      "order": 5,
+      "distance_from_prev": 1194
+    },
+    {
+      "line_id": 9,
+      "station_id": 27,
+      "order": 6,
+      "distance_from_prev": 1001
+    },
+    {
+      "line_id": 9,
+      "station_id": 53,
+      "order": 7,
+      "distance_from_prev": 12561
+    },
+    {
+      "line_id": 9,
+      "station_id": 54,
+      "order": 8,
+      "distance_from_prev": 3558
+    },
+    {
+      "line_id": 9,
+      "station_id": 55,
+      "order": 9,
+      "distance_from_prev": 7886
+    },
+    {
+      "line_id": 10,
+      "station_id": 1,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 10,
+      "station_id": 5,
+      "order": 2,
+      "distance_from_prev": 196
+    },
+    {
+      "line_id": 10,
+      "station_id": 28,
+      "order": 3,
+      "distance_from_prev": 2607
+    },
+    {
+      "line_id": 10,
+      "station_id": 36,
+      "order": 4,
+      "distance_from_prev": 571
+    },
+    {
+      "line_id": 10,
+      "station_id": 29,
+      "order": 5,
+      "distance_from_prev": 2322
+    },
+    {
+      "line_id": 10,
+      "station_id": 30,
+      "order": 6,
+      "distance_from_prev": 1355
+    },
+    {
+      "line_id": 11,
+      "station_id": 27,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 11,
+      "station_id": 9,
+      "order": 2,
+      "distance_from_prev": 1001
+    },
+    {
+      "line_id": 11,
+      "station_id": 37,
+      "order": 3,
+      "distance_from_prev": 6958
+    },
+    {
+      "line_id": 11,
+      "station_id": 40,
+      "order": 4,
+      "distance_from_prev": 5025
+    },
+    {
+      "line_id": 11,
+      "station_id": 38,
+      "order": 5,
+      "distance_from_prev": 786
+    },
+    {
+      "line_id": 12,
+      "station_id": 2,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 12,
+      "station_id": 26,
+      "order": 2,
+      "distance_from_prev": 1102
+    },
+    {
+      "line_id": 12,
+      "station_id": 19,
+      "order": 3,
+      "distance_from_prev": 3879
+    },
+    {
+      "line_id": 12,
+      "station_id": 18,
+      "order": 4,
+      "distance_from_prev": 1468
+    },
+    {
+      "line_id": 12,
+      "station_id": 41,
+      "order": 5,
+      "distance_from_prev": 12891
+    },
+    {
+      "line_id": 13,
+      "station_id": 9,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 13,
+      "station_id": 27,
+      "order": 2,
+      "distance_from_prev": 1001
+    },
+    {
+      "line_id": 13,
+      "station_id": 37,
+      "order": 3,
+      "distance_from_prev": 7882
+    },
+    {
+      "line_id": 14,
+      "station_id": 5,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 14,
+      "station_id": 1,
+      "order": 2,
+      "distance_from_prev": 196
+    },
+    {
+      "line_id": 14,
+      "station_id": 28,
+      "order": 3,
+      "distance_from_prev": 2782
+    },
+    {
+      "line_id": 14,
+      "station_id": 36,
+      "order": 4,
+      "distance_from_prev": 571
+    },
+    {
+      "line_id": 14,
+      "station_id": 34,
+      "order": 5,
+      "distance_from_prev": 4196
+    },
+    {
+      "line_id": 15,
+      "station_id": 7,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 15,
+      "station_id": 8,
+      "order": 2,
+      "distance_from_prev": 773
+    },
+    {
+      "line_id": 15,
+      "station_id": 10,
+      "order": 3,
+      "distance_from_prev": 804
+    },
+    {
+      "line_id": 15,
+      "station_id": 28,
+      "order": 4,
+      "distance_from_prev": 3979
+    },
+    {
+      "line_id": 15,
+      "station_id": 36,
+      "order": 5,
+      "distance_from_prev": 571
+    },
+    {
+      "line_id": 15,
+      "station_id": 34,
+      "order": 6,
+      "distance_from_prev": 4196
+    },
+    {
+      "line_id": 15,
+      "station_id": 35,
+      "order": 7,
+      "distance_from_prev": 1306
+    },
+    {
+      "line_id": 15,
+      "station_id": 31,
+      "order": 8,
+      "distance_from_prev": 3033
+    },
+    {
+      "line_id": 16,
+      "station_id": 2,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 16,
+      "station_id": 26,
+      "order": 2,
+      "distance_from_prev": 1102
+    },
+    {
+      "line_id": 16,
+      "station_id": 19,
+      "order": 3,
+      "distance_from_prev": 3879
+    },
+    {
+      "line_id": 16,
+      "station_id": 42,
+      "order": 4,
+      "distance_from_prev": 6632
+    },
+    {
+      "line_id": 17,
+      "station_id": 1,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 17,
+      "station_id": 5,
+      "order": 2,
+      "distance_from_prev": 196
+    },
+    {
+      "line_id": 17,
+      "station_id": 28,
+      "order": 3,
+      "distance_from_prev": 2607
+    },
+    {
+      "line_id": 17,
+      "station_id": 36,
+      "order": 4,
+      "distance_from_prev": 571
+    },
+    {
+      "line_id": 17,
+      "station_id": 35,
+      "order": 5,
+      "distance_from_prev": 2892
+    },
+    {
+      "line_id": 18,
+      "station_id": 2,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 18,
+      "station_id": 6,
+      "order": 2,
+      "distance_from_prev": 717
+    },
+    {
+      "line_id": 18,
+      "station_id": 7,
+      "order": 3,
+      "distance_from_prev": 1654
+    },
+    {
+      "line_id": 18,
+      "station_id": 9,
+      "order": 4,
+      "distance_from_prev": 1660
+    },
+    {
+      "line_id": 18,
+      "station_id": 27,
+      "order": 5,
+      "distance_from_prev": 1001
+    },
+    {
+      "line_id": 18,
+      "station_id": 37,
+      "order": 6,
+      "distance_from_prev": 7882
+    },
+    {
+      "line_id": 18,
+      "station_id": 39,
+      "order": 7,
+      "distance_from_prev": 2324
+    },
+    {
+      "line_id": 19,
+      "station_id": 13,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 19,
+      "station_id": 12,
+      "order": 2,
+      "distance_from_prev": 856
+    },
+    {
+      "line_id": 19,
+      "station_id": 11,
+      "order": 3,
+      "distance_from_prev": 1244
+    },
+    {
+      "line_id": 19,
+      "station_id": 3,
+      "order": 4,
+      "distance_from_prev": 1500
+    },
+    {
+      "line_id": 19,
+      "station_id": 17,
+      "order": 5,
+      "distance_from_prev": 3523
+    },
+    {
+      "line_id": 19,
+      "station_id": 14,
+      "order": 6,
+      "distance_from_prev": 746
+    },
+    {
+      "line_id": 20,
+      "station_id": 7,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 20,
+      "station_id": 26,
+      "order": 2,
+      "distance_from_prev": 801
+    },
+    {
+      "line_id": 20,
+      "station_id": 11,
+      "order": 3,
+      "distance_from_prev": 1804
+    },
+    {
+      "line_id": 20,
+      "station_id": 13,
+      "order": 4,
+      "distance_from_prev": 2027
+    },
+    {
+      "line_id": 20,
+      "station_id": 24,
+      "order": 5,
+      "distance_from_prev": 685
+    },
+    {
+      "line_id": 20,
+      "station_id": 23,
+      "order": 6,
+      "distance_from_prev": 956
+    },
+    {
+      "line_id": 20,
+      "station_id": 22,
+      "order": 7,
+      "distance_from_prev": 685
+    },
+    {
+      "line_id": 20,
+      "station_id": 21,
+      "order": 8,
+      "distance_from_prev": 1571
+    },
+    {
+      "line_id": 21,
+      "station_id": 1,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 21,
+      "station_id": 6,
+      "order": 2,
+      "distance_from_prev": 345
+    },
+    {
+      "line_id": 21,
+      "station_id": 26,
+      "order": 3,
+      "distance_from_prev": 1340
+    },
+    {
+      "line_id": 21,
+      "station_id": 11,
+      "order": 4,
+      "distance_from_prev": 1804
+    },
+    {
+      "line_id": 21,
+      "station_id": 13,
+      "order": 5,
+      "distance_from_prev": 2027
+    },
+    {
+      "line_id": 21,
+      "station_id": 12,
+      "order": 6,
+      "distance_from_prev": 856
+    },
+    {
+      "line_id": 22,
+      "station_id": 2,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 22,
+      "station_id": 26,
+      "order": 2,
+      "distance_from_prev": 1102
+    },
+    {
+      "line_id": 22,
+      "station_id": 19,
+      "order": 3,
+      "distance_from_prev": 3879
+    },
+    {
+      "line_id": 22,
+      "station_id": 20,
+      "order": 4,
+      "distance_from_prev": 752
+    },
+    {
+      "line_id": 23,
+      "station_id": 9,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 23,
+      "station_id": 26,
+      "order": 2,
+      "distance_from_prev": 2356
+    },
+    {
+      "line_id": 23,
+      "station_id": 19,
+      "order": 3,
+      "distance_from_prev": 3879
+    },
+    {
+      "line_id": 24,
+      "station_id": 1,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 24,
+      "station_id": 5,
+      "order": 2,
+      "distance_from_prev": 196
+    },
+    {
+      "line_id": 24,
+      "station_id": 28,
+      "order": 3,
+      "distance_from_prev": 2607
+    },
+    {
+      "line_id": 24,
+      "station_id": 29,
+      "order": 4,
+      "distance_from_prev": 2878
+    },
+    {
+      "line_id": 25,
+      "station_id": 2,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 25,
+      "station_id": 3,
+      "order": 2,
+      "distance_from_prev": 528
+    },
+    {
+      "line_id": 25,
+      "station_id": 11,
+      "order": 3,
+      "distance_from_prev": 1500
+    },
+    {
+      "line_id": 25,
+      "station_id": 13,
+      "order": 4,
+      "distance_from_prev": 2027
+    },
+    {
+      "line_id": 25,
+      "station_id": 43,
+      "order": 5,
+      "distance_from_prev": 10147
+    },
+    {
+      "line_id": 25,
+      "station_id": 46,
+      "order": 6,
+      "distance_from_prev": 2457
+    },
+    {
+      "line_id": 26,
+      "station_id": 14,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 26,
+      "station_id": 17,
+      "order": 2,
+      "distance_from_prev": 746
+    },
+    {
+      "line_id": 26,
+      "station_id": 25,
+      "order": 3,
+      "distance_from_prev": 3648
+    },
+    {
+      "line_id": 26,
+      "station_id": 49,
+      "order": 4,
+      "distance_from_prev": 6279
+    },
+    {
+      "line_id": 26,
+      "station_id": 50,
+      "order": 5,
+      "distance_from_prev": 4509
+    },
+    {
+      "line_id": 27,
+      "station_id": 2,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 27,
+      "station_id": 3,
+      "order": 2,
+      "distance_from_prev": 528
+    },
+    {
+      "line_id": 27,
+      "station_id": 11,
+      "order": 3,
+      "distance_from_prev": 1500
+    },
+    {
+      "line_id": 27,
+      "station_id": 13,
+      "order": 4,
+      "distance_from_prev": 2027
+    },
+    {
+      "line_id": 27,
+      "station_id": 43,
+      "order": 5,
+      "distance_from_prev": 10147
+    },
+    {
+      "line_id": 27,
+      "station_id": 46,
+      "order": 6,
+      "distance_from_prev": 2457
+    },
+    {
+      "line_id": 27,
+      "station_id": 51,
+      "order": 7,
+      "distance_from_prev": 5360
+    },
+    {
+      "line_id": 28,
+      "station_id": 1,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 28,
+      "station_id": 5,
+      "order": 2,
+      "distance_from_prev": 196
+    },
+    {
+      "line_id": 28,
+      "station_id": 28,
+      "order": 3,
+      "distance_from_prev": 2607
+    },
+    {
+      "line_id": 28,
+      "station_id": 36,
+      "order": 4,
+      "distance_from_prev": 571
+    },
+    {
+      "line_id": 28,
+      "station_id": 34,
+      "order": 5,
+      "distance_from_prev": 4196
+    },
+    {
+      "line_id": 28,
+      "station_id": 33,
+      "order": 6,
+      "distance_from_prev": 3898
+    },
+    {
+      "line_id": 29,
+      "station_id": 7,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 29,
+      "station_id": 8,
+      "order": 2,
+      "distance_from_prev": 773
+    },
+    {
+      "line_id": 29,
+      "station_id": 9,
+      "order": 3,
+      "distance_from_prev": 1194
+    },
+    {
+      "line_id": 29,
+      "station_id": 27,
+      "order": 4,
+      "distance_from_prev": 1001
+    },
+    {
+      "line_id": 29,
+      "station_id": 53,
+      "order": 5,
+      "distance_from_prev": 12561
+    },
+    {
+      "line_id": 29,
+      "station_id": 54,
+      "order": 6,
+      "distance_from_prev": 3558
+    },
+    {
+      "line_id": 30,
+      "station_id": 2,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 30,
+      "station_id": 6,
+      "order": 2,
+      "distance_from_prev": 717
+    },
+    {
+      "line_id": 30,
+      "station_id": 7,
+      "order": 3,
+      "distance_from_prev": 1654
+    },
+    {
+      "line_id": 30,
+      "station_id": 8,
+      "order": 4,
+      "distance_from_prev": 773
+    },
+    {
+      "line_id": 30,
+      "station_id": 9,
+      "order": 5,
+      "distance_from_prev": 1194
+    },
+    {
+      "line_id": 30,
+      "station_id": 27,
+      "order": 6,
+      "distance_from_prev": 1001
+    },
+    {
+      "line_id": 30,
+      "station_id": 53,
+      "order": 7,
+      "distance_from_prev": 12561
+    },
+    {
+      "line_id": 31,
+      "station_id": 4,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 31,
+      "station_id": 5,
+      "order": 2,
+      "distance_from_prev": 695
+    },
+    {
+      "line_id": 31,
+      "station_id": 1,
+      "order": 3,
+      "distance_from_prev": 196
+    },
+    {
+      "line_id": 31,
+      "station_id": 6,
+      "order": 4,
+      "distance_from_prev": 345
+    },
+    {
+      "line_id": 31,
+      "station_id": 7,
+      "order": 5,
+      "distance_from_prev": 1654
+    },
+    {
+      "line_id": 32,
+      "station_id": 26,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 32,
+      "station_id": 3,
+      "order": 2,
+      "distance_from_prev": 1492
+    },
+    {
+      "line_id": 32,
+      "station_id": 11,
+      "order": 3,
+      "distance_from_prev": 1500
+    },
+    {
+      "line_id": 32,
+      "station_id": 17,
+      "order": 4,
+      "distance_from_prev": 3912
+    },
+    {
+      "line_id": 32,
+      "station_id": 14,
+      "order": 5,
+      "distance_from_prev": 746
+    },
+    {
+      "line_id": 33,
+      "station_id": 1,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 33,
+      "station_id": 6,
+      "order": 2,
+      "distance_from_prev": 345
+    },
+    {
+      "line_id": 33,
+      "station_id": 7,
+      "order": 3,
+      "distance_from_prev": 1654
+    },
+    {
+      "line_id": 33,
+      "station_id": 9,
+      "order": 4,
+      "distance_from_prev": 1660
+    },
+    {
+      "line_id": 33,
+      "station_id": 27,
+      "order": 5,
+      "distance_from_prev": 1001
+    },
+    {
+      "line_id": 34,
+      "station_id": 7,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 34,
+      "station_id": 8,
+      "order": 2,
+      "distance_from_prev": 773
+    },
+    {
+      "line_id": 34,
+      "station_id": 10,
+      "order": 3,
+      "distance_from_prev": 804
+    },
+    {
+      "line_id": 34,
+      "station_id": 30,
+      "order": 4,
+      "distance_from_prev": 4113
+    },
+    {
+      "line_id": 35,
+      "station_id": 1,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 35,
+      "station_id": 6,
+      "order": 2,
+      "distance_from_prev": 345
+    },
+    {
+      "line_id": 35,
+      "station_id": 7,
+      "order": 3,
+      "distance_from_prev": 1654
+    },
+    {
+      "line_id": 35,
+      "station_id": 9,
+      "order": 4,
+      "distance_from_prev": 1660
+    },
+    {
+      "line_id": 35,
+      "station_id": 27,
+      "order": 5,
+      "distance_from_prev": 1001
+    },
+    {
+      "line_id": 36,
+      "station_id": 2,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 36,
+      "station_id": 6,
+      "order": 2,
+      "distance_from_prev": 717
+    },
+    {
+      "line_id": 36,
+      "station_id": 7,
+      "order": 3,
+      "distance_from_prev": 1654
+    },
+    {
+      "line_id": 36,
+      "station_id": 9,
+      "order": 4,
+      "distance_from_prev": 1660
+    },
+    {
+      "line_id": 37,
+      "station_id": 1,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 37,
+      "station_id": 5,
+      "order": 2,
+      "distance_from_prev": 196
+    },
+    {
+      "line_id": 37,
+      "station_id": 4,
+      "order": 3,
+      "distance_from_prev": 695
+    },
+    {
+      "line_id": 38,
+      "station_id": 4,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 38,
+      "station_id": 3,
+      "order": 2,
+      "distance_from_prev": 839
+    },
+    {
+      "line_id": 38,
+      "station_id": 26,
+      "order": 3,
+      "distance_from_prev": 1492
+    },
+    {
+      "line_id": 38,
+      "station_id": 19,
+      "order": 4,
+      "distance_from_prev": 3879
+    },
+    {
+      "line_id": 39,
+      "station_id": 2,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 39,
+      "station_id": 6,
+      "order": 2,
+      "distance_from_prev": 717
+    },
+    {
+      "line_id": 39,
+      "station_id": 1,
+      "order": 3,
+      "distance_from_prev": 345
+    },
+    {
+      "line_id": 39,
+      "station_id": 5,
+      "order": 4,
+      "distance_from_prev": 196
+    },
+    {
+      "line_id": 39,
+      "station_id": 28,
+      "order": 5,
+      "distance_from_prev": 2607
+    },
+    {
+      "line_id": 39,
+      "station_id": 30,
+      "order": 6,
+      "distance_from_prev": 4222
+    },
+    {
+      "line_id": 40,
+      "station_id": 1,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 40,
+      "station_id": 6,
+      "order": 2,
+      "distance_from_prev": 345
+    },
+    {
+      "line_id": 40,
+      "station_id": 26,
+      "order": 3,
+      "distance_from_prev": 1340
+    },
+    {
+      "line_id": 41,
+      "station_id": 8,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 41,
+      "station_id": 26,
+      "order": 2,
+      "distance_from_prev": 1573
+    },
+    {
+      "line_id": 41,
+      "station_id": 11,
+      "order": 3,
+      "distance_from_prev": 1804
+    },
+    {
+      "line_id": 41,
+      "station_id": 21,
+      "order": 4,
+      "distance_from_prev": 3750
+    },
+    {
+      "line_id": 42,
+      "station_id": 7,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 42,
+      "station_id": 8,
+      "order": 2,
+      "distance_from_prev": 773
+    },
+    {
+      "line_id": 42,
+      "station_id": 10,
+      "order": 3,
+      "distance_from_prev": 804
+    },
+    {
+      "line_id": 43,
+      "station_id": 2,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 43,
+      "station_id": 6,
+      "order": 2,
+      "distance_from_prev": 717
+    },
+    {
+      "line_id": 43,
+      "station_id": 1,
+      "order": 3,
+      "distance_from_prev": 345
+    },
+    {
+      "line_id": 43,
+      "station_id": 5,
+      "order": 4,
+      "distance_from_prev": 196
+    },
+    {
+      "line_id": 43,
+      "station_id": 28,
+      "order": 5,
+      "distance_from_prev": 2607
+    },
+    {
+      "line_id": 43,
+      "station_id": 36,
+      "order": 6,
+      "distance_from_prev": 571
+    },
+    {
+      "line_id": 43,
+      "station_id": 34,
+      "order": 7,
+      "distance_from_prev": 4196
+    },
+    {
+      "line_id": 43,
+      "station_id": 33,
+      "order": 8,
+      "distance_from_prev": 3898
+    },
+    {
+      "line_id": 44,
+      "station_id": 14,
+      "order": 1,
+      "distance_from_prev": 0
+    },
+    {
+      "line_id": 44,
+      "station_id": 17,
+      "order": 2,
+      "distance_from_prev": 746
+    },
+    {
+      "line_id": 44,
+      "station_id": 25,
+      "order": 3,
+      "distance_from_prev": 3648
+    },
+    {
+      "line_id": 44,
+      "station_id": 49,
+      "order": 4,
+      "distance_from_prev": 6279
+    },
+    {
+      "line_id": 44,
+      "station_id": 47,
+      "order": 5,
+      "distance_from_prev": 3836
+    },
+    {
+      "line_id": 44,
+      "station_id": 48,
+      "order": 6,
+      "distance_from_prev": 2792
+    }
+  ]
+}

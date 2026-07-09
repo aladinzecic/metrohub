@@ -1,0 +1,79 @@
+.ctrl-sidebar {
+    width: 18%;
+    height: 100%;
+    border-right: 1px solid #e2ddd8;
+    background-color: #fff;
+    padding: 16px 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    overflow-y: auto;
+}
+
+.ctrl-sb-label {
+    color: #919182;
+    font-size: 11px;
+    font-weight: 400;
+    margin-top: 14px;
+    margin-left: 8px;
+    margin-bottom: 4px;
+    letter-spacing: 0.06em;
+}
+
+.ctrl-sb-label:first-child {
+    margin-top: 0;
+}
+
+.ctrl-sb-item {
+    display: flex;
+    height: 6vh;
+    width: 100%;
+    align-items: center;
+    border-radius: 8px;
+    cursor: pointer;
+    color: gray;
+    font-weight: 300;
+    transition: all 0.15s;
+}
+
+.ctrl-sb-item:hover {
+    background-color: #F5F2ED;
+    color: #0a0a0a;
+}
+
+.ctrl-sb-item-active {
+    display: flex;
+    height: 6vh;
+    width: 100%;
+    align-items: center;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: #0a0a0a;
+    color: #fff;
+    font-weight: 300;
+}
+
+.ctrl-sb-item a,
+.ctrl-sb-item-active a {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    gap: 8px;
+    height: 100%;
+    padding-left: 10px;
+    font-size: 13px;
+}
+
+.ctrl-sb-item svg,
+.ctrl-sb-item-active svg {
+    width: 18px;
+    height: 18px;
+    flex-shrink: 0;
+}
+
+.ctrl-sb-item p,
+.ctrl-sb-item-active p {
+    font-size: 13px;
+}

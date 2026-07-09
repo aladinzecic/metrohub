@@ -1,0 +1,249 @@
+.ctrl-scan-area {
+    border: 2px dashed #e2ddd8;
+    border-radius: 12px;
+    padding: 36px 20px;
+    text-align: center;
+    background-color: #F5F2ED;
+    margin: 16px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.ctrl-scan-icon {
+    margin-bottom: 4px;
+}
+
+.ctrl-scan-title {
+    font-size: 14px;
+    font-weight: 500;
+    color: #0a0a0a;
+}
+
+.ctrl-scan-sub {
+    font-size: 12px;
+    color: #999993;
+}
+
+.ctrl-scan-btn {
+    background-color: #0a0a0a;
+    color: #f5f2ed;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 14px;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    font-family: 'DM Sans', sans-serif;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.ctrl-scan-btn:hover {
+    background-color: #222;
+}
+
+.ctrl-section-label {
+    font-size: 12px;
+    font-weight: 500;
+    color: #0a0a0a;
+}
+
+.ctrl-input {
+    flex: 1;
+    padding: 9px 12px;
+    border: 1px solid #e2ddd8;
+    border-radius: 10px;
+    font-size: 13px;
+    font-family: 'DM Sans', sans-serif;
+    color: #0a0a0a;
+    background: #fff;
+    outline: none;
+}
+
+.ctrl-input:focus {
+    border-color: #0a0a0a;
+}
+
+.ctrl-validate-btn {
+    padding: 9px 18px;
+    background-color: #0a0a0a;
+    color: #f5f2ed;
+    border: none;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    font-family: 'DM Sans', sans-serif;
+    white-space: nowrap;
+}
+
+.ctrl-divider {
+    border-top: 1px solid #e2ddd8;
+    margin: 14px 0;
+}
+
+.ctrl-result-box {
+    border-radius: 10px;
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 14px;
+}
+
+.ctrl-result-valid {
+    background-color: #f0fdf4;
+    border: 1px solid #bbf7d0;
+}
+
+.ctrl-result-invalid {
+    background-color: #fef2f2;
+    border: 1px solid #fecaca;
+}
+
+.ctrl-result-warning {
+    background-color: #fffbeb;
+    border: 1px solid #fcd34d;
+}
+
+.ctrl-result-icon {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.ctrl-result-icon-valid {
+    background-color: #ffffff;
+    color: #15803d;
+}
+
+.ctrl-result-icon-invalid {
+    background-color: #ffffff;
+    color: #991b1b;
+}
+
+.ctrl-result-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: #0a0a0a;
+    margin-bottom: 3px;
+}
+
+.ctrl-result-sub {
+    font-size: 12px;
+    color: #555550;
+}
+
+
+.ctrl-label {
+    display: block;
+    font-size: 12px;
+    font-weight: 500;
+    color: #0a0a0a;
+    margin-bottom: 6px;
+}
+
+.ctrl-submit-btn {
+    width: 100%;
+    padding: 11px;
+    background: #0a0a0a;
+    color: #f5f2ed;
+    border: none;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    font-family: 'DM Sans', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+}
+
+.ctrl-submit-btn:hover {
+    background: #222;
+}
+
+.ctrl-scan-result {
+    border-radius: 10px;
+    padding: 16px;
+}
+
+.ctrl-result-valid {
+    background: #f0fdf4;
+    border: 1px solid #bbf7d0;
+    color: #15803d;
+}
+
+.ctrl-result-invalid {
+    background: #fef2f2;
+    border: 1px solid #fecaca;
+    color: #991b1b;
+}
+
+.ctrl-result-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.ctrl-icon-valid {
+    background: #fff;
+    color: #15803d;
+}
+
+.ctrl-icon-invalid {
+    background: #fff;
+    color: #991b1b;
+}
+
+.ctrl-empty {
+    padding: 3vh 0;
+    text-align: center;
+    font-size: 13px;
+    color: #999993;
+}
+
+.ctrl-badge-green {
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    background: #f0fdf4;
+    color: #15803d;
+    border: 1px solid #bbf7d0;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.ctrl-badge-gray {
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    background: #F5F2ED;
+    color: #555550;
+    border: 1px solid #e2ddd8;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.ctrl-badge-red {
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    background: #fef2f2;
+    color: #991b1b;
+    border: 1px solid #fecaca;
+    white-space: nowrap;
+    flex-shrink: 0;
+}

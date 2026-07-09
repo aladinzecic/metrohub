@@ -1,0 +1,174 @@
+.predep-full {
+    width: 100%;
+    padding-bottom: 3vh;
+    background-color: #F5F2ED;
+    padding-left: 8%;
+    padding-right: 8%;
+    display: flex;
+    flex-direction: column;
+}
+
+.predep-title {
+    margin-top: 1vh;
+    margin-left: 10%;
+    font-size: 32px;
+    font-weight: 800;
+}
+
+/* GRID */
+.predep-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 3vh;
+}
+
+/* CARD */
+.predep-card {
+    background-color: #fff;
+    border: 1px solid #e2ddd8;
+    border-radius: 12px;
+    padding: 3vh 5%;
+    display: flex;
+    flex-direction: column;
+}
+
+.predep-card hr {
+    border: none;
+    border-top: 1px solid #e2ddd8;
+    margin: 0;
+}
+
+.predep-card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2vh;
+}
+
+.predep-card-top h2 {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+/* ITEM */
+.predep-item {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 1.5vh 0;
+}
+
+.predep-item p {
+    font-size: 13.5px;
+    color: #0a0a0a;
+}
+
+/* CHECKBOX */
+.predep-checkbox {
+    width: 20px;
+    height: 20px;
+    border-radius: 6px;
+    border: 1.5px solid #ccc9c3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    cursor: pointer;
+    transition: all 0.15s;
+    color: #fff;
+}
+
+.predep-checkbox:hover {
+    border-color: #0a0a0a;
+}
+
+.predep-checkbox.checked {
+    background-color: #0a0a0a;
+    border-color: #0a0a0a;
+}
+
+/* BADGES */
+.predep-badge-green {
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    background-color: #f0fdf4;
+    color: #15803d;
+    border: 1px solid #bbf7d0;
+}
+
+.predep-badge-amber {
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    background-color: #fffbeb;
+    color: #92400e;
+    border: 1px solid #fcd34d;
+}
+
+/* SUMMARY */
+.predep-summary {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 3vh;
+    background-color: #fff;
+    border: 1px solid #e2ddd8;
+    border-radius: 12px;
+    padding: 3vh 5%;
+    gap: 5%;
+}
+
+.predep-summary-left {
+    flex: 1;
+}
+
+.predep-summary-title {
+    font-size: 15px;
+    font-weight: 600;
+    color: #0a0a0a;
+    margin-bottom: 6px;
+}
+
+.predep-summary-sub {
+    font-size: 12px;
+    color: #555550;
+    font-weight: 300;
+    margin-bottom: 12px;
+}
+
+.predep-progress-bar {
+    height: 8px;
+    background-color: #F5F2ED;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.predep-progress-fill {
+    height: 100%;
+    background-color: #0a0a0a;
+    border-radius: 4px;
+}
+
+/* CONFIRM BUTTON */
+.predep-confirm-btn {
+    background-color: #0a0a0a;
+    color: #f5f2ed;
+    border: none;
+    border-radius: 12px;
+    padding: 14px 32px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    font-family: 'DM Sans', sans-serif;
+    white-space: nowrap;
+}
+
+.predep-confirm-btn:hover {
+    background-color: #222;
+}

@@ -1,0 +1,244 @@
+.requests-full {
+    width: 100%;
+    height: 100%;
+    padding-bottom: 3vh;
+    background-color: #F5F2ED;
+    padding-left: 8%;
+    padding-right: 8%;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+}
+
+.requests-title {
+    margin-top: 1vh;
+    margin-left: 10%;
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.requests-success {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2vh;
+    background-color: #f0fdf4;
+    border: 1px solid #bbf7d0;
+    border-radius: 10px;
+    padding: 10px 16px;
+    font-size: 13px;
+    color: #15803d;
+}
+
+/* STATS */
+.requests-stats {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 3vh;
+    gap: 16px;
+}
+
+.requests-stat {
+    flex: 1;
+    background-color: #fff;
+    border: 1px solid #e2ddd8;
+    border-radius: 12px;
+    padding: 2vh 5%;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.requests-stat h3 {
+    font-size: 11px;
+    font-weight: 400;
+    color: #999993;
+    letter-spacing: 0.06em;
+}
+
+.requests-stat h1 {
+    font-size: 28px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+}
+
+.requests-stat p {
+    font-size: 13px;
+    color: #555550;
+}
+
+/* CARD */
+.requests-card {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 3vh;
+    background-color: #fff;
+    border: 1px solid #e2ddd8;
+    border-radius: 12px;
+    padding: 3vh 5%;
+}
+
+.requests-card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2vh;
+}
+
+.requests-card-top h2 {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+/* ITEM */
+.requests-item {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 1.5vh 0;
+}
+
+.requests-hr {
+    border: none;
+    border-top: 1px solid #e2ddd8;
+    margin: 0;
+}
+
+.requests-avatar {
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    background-color: #F5F2ED;
+    border: 1px solid #e2ddd8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 600;
+    color: #555550;
+    flex-shrink: 0;
+}
+
+.requests-avatar-green {
+    background-color: #f0fdf4;
+    color: #15803d;
+    border-color: #bbf7d0;
+}
+
+.requests-avatar-red {
+    background-color: #fef2f2;
+    color: #991b1b;
+    border-color: #fecaca;
+}
+
+.requests-info {
+    flex: 1;
+}
+
+.requests-name {
+    font-size: 13.5px;
+    font-weight: 500;
+    color: #0a0a0a;
+    margin-bottom: 3px;
+}
+
+.requests-desc {
+    font-size: 12px;
+    color: #555550;
+    font-weight: 300;
+}
+
+.requests-role-pill {
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    background-color: #F5F2ED;
+    color: #555550;
+    border: 1px solid #e2ddd8;
+    white-space: nowrap;
+}
+
+/* ACTIONS */
+.requests-actions {
+    display: flex;
+    gap: 8px;
+    flex-shrink: 0;
+}
+
+.requests-approve-btn {
+    padding: 7px 14px;
+    background-color: #f0fdf4;
+    color: #15803d;
+    border: 1px solid #bbf7d0;
+    border-radius: 8px;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    font-family: 'DM Sans', sans-serif;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.requests-approve-btn:hover {
+    background-color: #dcfce7;
+}
+
+.requests-reject-btn {
+    padding: 7px 14px;
+    background-color: #fef2f2;
+    color: #991b1b;
+    border: 1px solid #fecaca;
+    border-radius: 8px;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    font-family: 'DM Sans', sans-serif;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.requests-reject-btn:hover {
+    background-color: #fee2e2;
+}
+
+/* BADGES */
+.requests-badge-green {
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    background-color: #f0fdf4;
+    color: #15803d;
+    border: 1px solid #bbf7d0;
+    white-space: nowrap;
+}
+
+.requests-badge-red {
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    background-color: #fef2f2;
+    color: #991b1b;
+    border: 1px solid #fecaca;
+    white-space: nowrap;
+}
+
+.requests-badge-amber {
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    background-color: #fffbeb;
+    color: #92400e;
+    border: 1px solid #fcd34d;
+    white-space: nowrap;
+}
+
+/* EMPTY */
+.requests-empty {
+    padding: 3vh 0;
+    text-align: center;
+    font-size: 13px;
+    color: #999993;
+}

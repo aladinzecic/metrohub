@@ -1,0 +1,351 @@
+.dashboard-full{
+    width: 100%;
+    padding-bottom: 3vh;
+    background-color: #F5F2ED;
+    padding-left: 8%;
+    padding-right: 8%;
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+}
+
+.date-time{
+    margin-top: 4vh;
+    font-size: 14px;
+    color:#999993;
+    margin-left: 10%;
+}
+
+.morning{
+    margin-top: 1vh;
+    margin-left: 10%;
+}
+
+.dashboard-main{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-top: 3vh;
+    margin-left: 10%;
+}
+
+.dashboard-prop{
+    width: 22%;
+    height: 18vh;
+    background-color: #fff;
+    border: 1px solid #e2ddd8;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-left: 2%;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+.dashboard-prop h3{
+    font-weight: 400;
+    color: #999993;
+    font-size: 12px;
+}
+
+.dashboard-prop h1{
+    font-size: 22px;
+}
+
+.dashboard-prop p{
+    color: #555550;
+    font-size: 13px;
+}
+
+.dashboard-down{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    margin-top: 4vh;
+    margin-left: 10%;
+}
+
+.dashboard-vehicle,
+.dashboard-route{
+    width: 45%;
+    padding-bottom: 2vh;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    border-radius: 12px;
+    border: 1px solid #e2ddd8;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.dashboard-route-top,
+.dashboard-vehicle-top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2vh;
+    padding-bottom: 3vh;
+}
+
+.dashboard-route-top h1,
+.dashboard-vehicle-top h1{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.dashboard-route-top p,
+.dashboard-vehicle-top p{
+    font-size: 14px;
+}
+
+.dashboard-route-top p{
+    border: 1px solid #e2ddd8;
+    background-color: #F0FDF4;
+    padding: 3px 6px;
+    border-radius: 12px;
+    color: #555550;
+}
+
+.dashboard-vehicle-top p{
+    border: 1px solid #e2ddd8;
+    background-color: #F0FDF4;
+    padding: 3px 6px;
+    border-radius: 12px;
+    color: #555550;
+}
+
+.line-text{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2vh;
+}
+
+.line-text p{
+    color: #555550;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.line-text h3{
+    color: #0a0a0a;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.dashboard-full hr{
+    margin-top: 12px;
+}
+
+.line-text .green{
+    border: 1px solid rgb(108, 185, 108);
+    background-color: #F0FDF4;
+    padding: 2px 4px;
+    border-radius: 12px;
+    color: #096306;
+    font-size: 12px;
+}
+
+.line-text .red{
+    border: 1px solid rgb(214, 66, 40);
+    background-color: #FFFBEB;
+    padding: 2px 4px;
+    border-radius: 12px;
+    color: #631106;
+    font-size: 12px;
+}
+
+.dashboard-vehicle-down{
+    display: flex;
+    margin-top: 3vh;
+    justify-content: space-between;
+    width: 100%;
+    gap: 3vh;
+}
+
+.report{
+    background-color: #fef2f2;
+    color: #991b1b;
+    border: 1px solid #fecaca;
+    font-weight: 500;
+    padding: 10px 18px;
+    font-size: 14px;
+    border-radius: 12px;
+    height: 9vh;
+    cursor: pointer;
+    flex: 1;
+}
+
+.pre-departuree{
+    background-color: #fff;
+    color: #555550;
+    border: 1px solid #e2ddd8;
+    font-weight: 500;
+    padding: 10px 18px;
+    font-size: 14px;
+    border-radius: 12px;
+    height: 9vh;
+    cursor: pointer;
+    flex: 1;
+}
+
+/* ROUTE STOPS */
+.route-stops{
+    display: flex;
+    flex-direction: column;
+}
+
+.route-stop{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4px 0;
+}
+
+.route-stop-left{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.route-dot{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 2px solid #bdbdaf;
+    flex-shrink: 0;
+}
+
+.route-dot.done{
+    background-color: #0a0a0a;
+    border-color: #0a0a0a;
+}
+
+.route-dot.next{
+    background-color: #22c55e;
+    border-color: #22c55e;
+}
+
+.route-line{
+    width: 1px;
+    height: 18px;
+    background-color: #e2ddd8;
+    margin-left: 4px;
+}
+
+.route-stop-name{
+    font-size: 13.5px;
+    color: #0a0a0a;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.route-stop-time{
+    font-size: 12px;
+    color: #555550;
+}
+
+.done-text{
+    color: #999993 !important;
+}
+
+.next-badge{
+    font-size: 10px;
+    padding: 2px 8px;
+    border-radius: 20px;
+    background-color: #f0fdf4;
+    color: #15803d;
+    border: 1px solid #bbf7d0;
+}
+
+.dashboard-notifications{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 4vh;
+    background-color: #fff;
+    border-radius: 12px;
+    border: 1px solid #e2ddd8;
+    display: flex;
+    flex-direction: column;
+    padding: 0 5%;
+}
+
+.notif-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3vh 0 2vh 0;
+    flex-shrink: 0;
+}
+
+.notif-header h1{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.notif-count{
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    background-color: #fef2f2;
+    color: #991b1b;
+    border: 1px solid #fecaca;
+}
+
+.notif-item{
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    padding: 2vh 0;
+}
+
+.notif-indicator{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #bdbdaf;
+    flex-shrink: 0;
+    margin-top: 5px;
+}
+
+.notif-indicator.urgent{
+    background-color: #ef4444;
+}
+
+.notif-indicator.warning{
+    background-color: #f59e0b;
+}
+
+.notif-body{
+    flex: 1;
+}
+
+.notif-title{
+    font-size: 13.5px;
+    font-weight: 500;
+    color: #0a0a0a;
+    margin-bottom: 4px;
+}
+
+.notif-desc{
+    font-size: 12px;
+    color: #555550;
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+.notif-time{
+    font-size: 11px;
+    color: #999993;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.notif-hr{
+    margin: 0;
+    border: none;
+    border-top: 1px solid #e2ddd8;
+    flex-shrink: 0;
+}
